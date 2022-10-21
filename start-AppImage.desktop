@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=start-AppImage
+Exec=start-AppImage
+Icon=start-AppImage
+Type=Application
+Categories=Utility

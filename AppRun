@@ -1,0 +1,5 @@
+#!/bin/bash
+
+currPath="$(dirname "$(readlink -f "${0}")")"
+bin="${currPath}/usr/bin/start-AppImage"
+exec "${bin}"
